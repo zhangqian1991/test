@@ -6,4 +6,5 @@ int main()
 	cout<<"Hello World!";
 	cout<<"Test remote push";
 	cout<<"Test remote pull";
+	cout<<"Pull to local";
 }
