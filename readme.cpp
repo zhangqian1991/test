@@ -5,4 +5,5 @@ int main()
 	int j=0;
 	cout<<"Hello World!";
 	cout<<"Test remote push";
+	cout<<"Test remote pull";
 }
